@@ -1,4 +1,6 @@
-Galeria de Fotos da Carreira do Neymar
+<p align="center">
+  Galeria de Fotos da Carreira do Neymar
+</p>
 
 ![Capturar2](https://github.com/MiguelLucasSantoss/Galeria-de-Fotos/assets/162701029/a3ce994a-0107-4618-9331-0f86fc1c7860)
 
